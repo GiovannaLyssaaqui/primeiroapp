@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">primeiro app</string>
+    <string name="et_digite_aqui">digite alguma coisa aqui...</string>
+    <string name="btn_enviar">enviar</string>
+</resources>
