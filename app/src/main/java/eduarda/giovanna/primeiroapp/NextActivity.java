@@ -18,6 +18,6 @@ public class NextActivity extends AppCompatActivity {
         String textoDiditado = i.getStringExtra("texto");
 
         TextView tvTexto = findViewById(R.id.tv_texto);
-        tvTexto.setText(textoDiditado);
+        tvTexto.setText(textoDiditado); // exibir o texto digitado na primeira página
     }
 }
